@@ -24,6 +24,7 @@
 - [Lucas Stoque](/pupilos/perfis/Stoque.md)
 - [Luiz Lazaro](/pupilos/perfis/LuizLazaro.md)
 - [Maicon Gomes](/pupilos/perfis/atreyucore.md)
+- [Maicon Henrique](/pupilos/perfis/maiconkcond.md)
 - [Marcelo Henrique](/pupilos/perfis/MarceloHenrique.md)
 - [Marcio Alves](/pupilos/perfis/MarcioAlves.md)
 - [Marco Antonio Blos de Souza](/pupilos/perfis/marco_blos.md)
